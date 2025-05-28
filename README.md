@@ -6,9 +6,10 @@
 ---
 
 ### 💼 Experience Snapshot
-- **Consumers Energy** — Developing enterprise apps with .NET, Azure, and Power Platform in an Agile team  
-- **Fisher Dynamics** — Built ROS2-based automation tools and real-time control systems for robotics  
-- **General Dynamics** — Created Python tools for log parsing and detection engineering, improving security operations
+- **Consumers Energy** — Developing .NET + Azure applications to improve internal systems and performance  
+- **Fisher Dynamics** — Created ROS2-based automation and control tools for real-time robotic diagnostics  
+- **General Dynamics** — Wrote Python automation scripts to streamline log analysis and detection workflows  
+- **Independent Living Housing** — Modernized the nonprofit's website and built dynamic front-end features using React and integrated APIs
 
 ---
 
