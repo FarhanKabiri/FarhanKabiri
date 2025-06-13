@@ -6,7 +6,7 @@
 ---
 
 ### 💼 Experience Snapshot
-- **Consumers Energy** — Lead Software Engineern Intern, Developing .NET + Azure applications to improve internal systems and performance  
+- **Consumers Energy** — Lead Intern, Developing .NET + Azure applications to improve internal systems and performance  
 - **Fisher Dynamics** — Created ROS2-based automation and control tools for real-time robotic diagnostics  
 - **General Dynamics** — Wrote Python automation scripts to streamline log analysis and detection workflows  
 - **Independent Living Housing** — Modernized the nonprofit's website and built dynamic front-end features using React and integrated APIs
